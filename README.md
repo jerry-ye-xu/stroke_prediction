@@ -55,7 +55,7 @@ I also attempted upsampling the data to 10 and 30% of the original sample size, 
 
 ## Discussion
 
-In hindsight, the best approach would have been to start very simple, take the correlation of all the simple models and ensemble the ones with the lowest correlation. I also wanted to try voting ensemble, as well as more thorough hyperparameter tuning. Both techniques I had no enough time to implement. 
+In hindsight, the best approach would have been to start very simple, take the correlation of all the simple models and ensemble the ones with the lowest correlation. I also wanted to try voting ensemble, as well as more thorough hyperparameter tuning. A one-man team did not supply me enough time to implement everything. 
 
 ---
 
